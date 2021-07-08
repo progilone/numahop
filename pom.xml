@@ -18,7 +18,7 @@
     <properties>
         <amazonaws.version>1.11.656</amazonaws.version>
         <commons-csv.version>1.5</commons-csv.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <commons-text.version>1.7</commons-text.version>
         <commons-validator.version>1.6</commons-validator.version>
